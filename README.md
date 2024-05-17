@@ -6,7 +6,5 @@ Repositório da turma 3A1
 
 ![](https://media.tenor.com/xCey6e3UtPIAAAAi/skeleton-doot.gif)
 
-teste
-
 Contato:
 00001106697029sp@al.educacao.sp.gov.br
